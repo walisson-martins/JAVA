@@ -1,1 +1,6 @@
-Repositório referente ao portfólio dos projetos feito em JAVA.
+Repositório referente aoprojetos feito em JAVA
+
+JDBC - Abstração de uma camada da conexão com o banco de dados -> java.sql.*;
+
+
+
