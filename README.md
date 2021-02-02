@@ -4,3 +4,6 @@ JPA - Java Persistence API é uma API padrão da linguagem Java que descreve uma
 
 
 Como estamos utilizando Maven, clicaremos em "Maven Artifacts" para sermos redirecionados para o repositório de dependências JFrog Bintray. 
+
+
+Maven -- gerenciador de dependência do JAVA --> https://mvnrepository.com/artifact/mysql/mysql-connector-java
