@@ -1,0 +1,16 @@
+create database alura_jpa; 
+use alura_jpa;
+
+show tables;
+desc conta;
+
+desc movimentacao;
+
+SELECT * FROM conta;
+SELECT * FROM categoria;
+SELECT * FROM movimentacao_categoria;
+SELECT * FROM movimentacao;
+SELECT * FROM movimentacao;
+SELECT * FROM cliente;
+
+show databases;
